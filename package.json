@@ -40,13 +40,13 @@
     "not ie 11",
     "not op_mini all"
   ],
-  "repository": "https://github.com/yangyanggu/layer-3dtiles",
-  "author": "guyangyang <407042815@qq.com>",
+  "repository": "https://github.com/fushengcf/layer-3dtiles",
+  "author": "guyangyang <1726744044@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yangyanggu/layer-3dtiles/issues"
+    "url": "https://github.com/fushengcf/layer-3dtiles/issues"
   },
-  "homepage": "https://github.com/yangyanggu/layer-3dtiles",
+  "homepage": "https://github.com/fushengcf/layer-3dtiles",
   "dependencies": {
     "3d-tiles-renderer": "https://github.com/fushengcf/3DTilesRendererJS.git",
     "three": "0.143.0",
