@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/fushengcf/layer-3dtiles",
   "dependencies": {
-    "3d-tiles-renderer": "https://github.com/fushengcf/3DTilesRendererJS.git",
+    "3d-tiles-renderer": "git+https://github.com/fushengcf/3DTilesRendererJS.git",
     "three": "0.143.0",
     "lodash-es": "^4.17.21"
   },
